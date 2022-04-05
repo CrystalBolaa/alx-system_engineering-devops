@@ -4,3 +4,5 @@ echo find . -type d ! -path . -print | wc -l
 echo find . -type d ! -path . -print | wc -l 
 #!/bin/bash
 echo find . -type d ! -path . -print | wc -l 
+#!/bin/bash
+echo find . -type d ! -path . -print | wc -l 
